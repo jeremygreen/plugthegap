@@ -1,0 +1,25 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+body {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: normal;
+	color: #ffffff;
+	background-color: #0000aa;
+}
+
+#canvas {
+	border: 2px solid #000000;	
+}
+
+#gamepanel {
+	padding: 20px;
+	float: left;
+}
+
+#sidepanel {
+	float: right;
+	padding: 20px;
+}
